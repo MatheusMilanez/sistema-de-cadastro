@@ -1,5 +1,2 @@
 console.log("Rodando o sistema de gerenciamento de jogos")
 console.log("conectando ao banco de dados")
-console.log("CONNECT-1")
-console.log("CONNECT-2")
-console.log("CONNECT-3")
